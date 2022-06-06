@@ -1,0 +1,15 @@
+C:\Users\karim.moustamid\OneDrive\AgileThought\OneDrive - AgileThought\90-BootCamp\00-C#\Csharp-MasterClass\03-Loops and Sets\05-Dictionary\DictionaryApp\bin\Debug\net6.0\DictionaryApp.exe
+C:\Users\karim.moustamid\OneDrive\AgileThought\OneDrive - AgileThought\90-BootCamp\00-C#\Csharp-MasterClass\03-Loops and Sets\05-Dictionary\DictionaryApp\bin\Debug\net6.0\DictionaryApp.deps.json
+C:\Users\karim.moustamid\OneDrive\AgileThought\OneDrive - AgileThought\90-BootCamp\00-C#\Csharp-MasterClass\03-Loops and Sets\05-Dictionary\DictionaryApp\bin\Debug\net6.0\DictionaryApp.runtimeconfig.json
+C:\Users\karim.moustamid\OneDrive\AgileThought\OneDrive - AgileThought\90-BootCamp\00-C#\Csharp-MasterClass\03-Loops and Sets\05-Dictionary\DictionaryApp\bin\Debug\net6.0\DictionaryApp.dll
+C:\Users\karim.moustamid\OneDrive\AgileThought\OneDrive - AgileThought\90-BootCamp\00-C#\Csharp-MasterClass\03-Loops and Sets\05-Dictionary\DictionaryApp\bin\Debug\net6.0\DictionaryApp.pdb
+C:\Users\karim.moustamid\OneDrive\AgileThought\OneDrive - AgileThought\90-BootCamp\00-C#\Csharp-MasterClass\03-Loops and Sets\05-Dictionary\DictionaryApp\obj\Debug\net6.0\DictionaryApp.csproj.AssemblyReference.cache
+C:\Users\karim.moustamid\OneDrive\AgileThought\OneDrive - AgileThought\90-BootCamp\00-C#\Csharp-MasterClass\03-Loops and Sets\05-Dictionary\DictionaryApp\obj\Debug\net6.0\DictionaryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karim.moustamid\OneDrive\AgileThought\OneDrive - AgileThought\90-BootCamp\00-C#\Csharp-MasterClass\03-Loops and Sets\05-Dictionary\DictionaryApp\obj\Debug\net6.0\DictionaryApp.AssemblyInfoInputs.cache
+C:\Users\karim.moustamid\OneDrive\AgileThought\OneDrive - AgileThought\90-BootCamp\00-C#\Csharp-MasterClass\03-Loops and Sets\05-Dictionary\DictionaryApp\obj\Debug\net6.0\DictionaryApp.AssemblyInfo.cs
+C:\Users\karim.moustamid\OneDrive\AgileThought\OneDrive - AgileThought\90-BootCamp\00-C#\Csharp-MasterClass\03-Loops and Sets\05-Dictionary\DictionaryApp\obj\Debug\net6.0\DictionaryApp.csproj.CoreCompileInputs.cache
+C:\Users\karim.moustamid\OneDrive\AgileThought\OneDrive - AgileThought\90-BootCamp\00-C#\Csharp-MasterClass\03-Loops and Sets\05-Dictionary\DictionaryApp\obj\Debug\net6.0\DictionaryApp.dll
+C:\Users\karim.moustamid\OneDrive\AgileThought\OneDrive - AgileThought\90-BootCamp\00-C#\Csharp-MasterClass\03-Loops and Sets\05-Dictionary\DictionaryApp\obj\Debug\net6.0\refint\DictionaryApp.dll
+C:\Users\karim.moustamid\OneDrive\AgileThought\OneDrive - AgileThought\90-BootCamp\00-C#\Csharp-MasterClass\03-Loops and Sets\05-Dictionary\DictionaryApp\obj\Debug\net6.0\DictionaryApp.pdb
+C:\Users\karim.moustamid\OneDrive\AgileThought\OneDrive - AgileThought\90-BootCamp\00-C#\Csharp-MasterClass\03-Loops and Sets\05-Dictionary\DictionaryApp\obj\Debug\net6.0\DictionaryApp.genruntimeconfig.cache
+C:\Users\karim.moustamid\OneDrive\AgileThought\OneDrive - AgileThought\90-BootCamp\00-C#\Csharp-MasterClass\03-Loops and Sets\05-Dictionary\DictionaryApp\obj\Debug\net6.0\ref\DictionaryApp.dll
