@@ -1,0 +1,15 @@
+/Users/karimmoustamid/Library/CloudStorage/OneDrive-Inovalon.global/Bootcamp/timcorey  Bootcamp/C# MasterCource/HelloWord/HelloWorld/bin/Debug/net6.0/HelloWorld
+/Users/karimmoustamid/Library/CloudStorage/OneDrive-Inovalon.global/Bootcamp/timcorey  Bootcamp/C# MasterCource/HelloWord/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/Users/karimmoustamid/Library/CloudStorage/OneDrive-Inovalon.global/Bootcamp/timcorey  Bootcamp/C# MasterCource/HelloWord/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/Users/karimmoustamid/Library/CloudStorage/OneDrive-Inovalon.global/Bootcamp/timcorey  Bootcamp/C# MasterCource/HelloWord/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/Users/karimmoustamid/Library/CloudStorage/OneDrive-Inovalon.global/Bootcamp/timcorey  Bootcamp/C# MasterCource/HelloWord/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/Users/karimmoustamid/Library/CloudStorage/OneDrive-Inovalon.global/Bootcamp/timcorey  Bootcamp/C# MasterCource/HelloWord/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/karimmoustamid/Library/CloudStorage/OneDrive-Inovalon.global/Bootcamp/timcorey  Bootcamp/C# MasterCource/HelloWord/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karimmoustamid/Library/CloudStorage/OneDrive-Inovalon.global/Bootcamp/timcorey  Bootcamp/C# MasterCource/HelloWord/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/karimmoustamid/Library/CloudStorage/OneDrive-Inovalon.global/Bootcamp/timcorey  Bootcamp/C# MasterCource/HelloWord/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/Users/karimmoustamid/Library/CloudStorage/OneDrive-Inovalon.global/Bootcamp/timcorey  Bootcamp/C# MasterCource/HelloWord/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/karimmoustamid/Library/CloudStorage/OneDrive-Inovalon.global/Bootcamp/timcorey  Bootcamp/C# MasterCource/HelloWord/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/Users/karimmoustamid/Library/CloudStorage/OneDrive-Inovalon.global/Bootcamp/timcorey  Bootcamp/C# MasterCource/HelloWord/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/Users/karimmoustamid/Library/CloudStorage/OneDrive-Inovalon.global/Bootcamp/timcorey  Bootcamp/C# MasterCource/HelloWord/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/Users/karimmoustamid/Library/CloudStorage/OneDrive-Inovalon.global/Bootcamp/timcorey  Bootcamp/C# MasterCource/HelloWord/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/Users/karimmoustamid/Library/CloudStorage/OneDrive-Inovalon.global/Bootcamp/timcorey  Bootcamp/C# MasterCource/HelloWord/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
