@@ -1,0 +1,15 @@
+/Users/karimmoustamid/Library/CloudStorage/OneDrive-AgileThought/90-BootCamp/00-C#/Csharp-MasterClass/04-Methods/MethodsApp/bin/Debug/net6.0/MethodsApp
+/Users/karimmoustamid/Library/CloudStorage/OneDrive-AgileThought/90-BootCamp/00-C#/Csharp-MasterClass/04-Methods/MethodsApp/bin/Debug/net6.0/MethodsApp.deps.json
+/Users/karimmoustamid/Library/CloudStorage/OneDrive-AgileThought/90-BootCamp/00-C#/Csharp-MasterClass/04-Methods/MethodsApp/bin/Debug/net6.0/MethodsApp.runtimeconfig.json
+/Users/karimmoustamid/Library/CloudStorage/OneDrive-AgileThought/90-BootCamp/00-C#/Csharp-MasterClass/04-Methods/MethodsApp/bin/Debug/net6.0/MethodsApp.dll
+/Users/karimmoustamid/Library/CloudStorage/OneDrive-AgileThought/90-BootCamp/00-C#/Csharp-MasterClass/04-Methods/MethodsApp/bin/Debug/net6.0/MethodsApp.pdb
+/Users/karimmoustamid/Library/CloudStorage/OneDrive-AgileThought/90-BootCamp/00-C#/Csharp-MasterClass/04-Methods/MethodsApp/obj/Debug/net6.0/MethodsApp.csproj.AssemblyReference.cache
+/Users/karimmoustamid/Library/CloudStorage/OneDrive-AgileThought/90-BootCamp/00-C#/Csharp-MasterClass/04-Methods/MethodsApp/obj/Debug/net6.0/MethodsApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karimmoustamid/Library/CloudStorage/OneDrive-AgileThought/90-BootCamp/00-C#/Csharp-MasterClass/04-Methods/MethodsApp/obj/Debug/net6.0/MethodsApp.AssemblyInfoInputs.cache
+/Users/karimmoustamid/Library/CloudStorage/OneDrive-AgileThought/90-BootCamp/00-C#/Csharp-MasterClass/04-Methods/MethodsApp/obj/Debug/net6.0/MethodsApp.AssemblyInfo.cs
+/Users/karimmoustamid/Library/CloudStorage/OneDrive-AgileThought/90-BootCamp/00-C#/Csharp-MasterClass/04-Methods/MethodsApp/obj/Debug/net6.0/MethodsApp.csproj.CoreCompileInputs.cache
+/Users/karimmoustamid/Library/CloudStorage/OneDrive-AgileThought/90-BootCamp/00-C#/Csharp-MasterClass/04-Methods/MethodsApp/obj/Debug/net6.0/MethodsApp.dll
+/Users/karimmoustamid/Library/CloudStorage/OneDrive-AgileThought/90-BootCamp/00-C#/Csharp-MasterClass/04-Methods/MethodsApp/obj/Debug/net6.0/refint/MethodsApp.dll
+/Users/karimmoustamid/Library/CloudStorage/OneDrive-AgileThought/90-BootCamp/00-C#/Csharp-MasterClass/04-Methods/MethodsApp/obj/Debug/net6.0/MethodsApp.pdb
+/Users/karimmoustamid/Library/CloudStorage/OneDrive-AgileThought/90-BootCamp/00-C#/Csharp-MasterClass/04-Methods/MethodsApp/obj/Debug/net6.0/MethodsApp.genruntimeconfig.cache
+/Users/karimmoustamid/Library/CloudStorage/OneDrive-AgileThought/90-BootCamp/00-C#/Csharp-MasterClass/04-Methods/MethodsApp/obj/Debug/net6.0/ref/MethodsApp.dll
